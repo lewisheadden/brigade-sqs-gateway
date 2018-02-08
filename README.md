@@ -22,7 +22,7 @@ Currently this looks like
 {
   "project": "my-project",
   "type": "my-trigger",
-  "payload": "{\"Hello\": \"World!\"}"
+  "payload": "{\"Hello\": \"World!\"}",
   "script": "console.log(\"Hello!\")"
 }
 ```
